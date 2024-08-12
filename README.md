@@ -10,21 +10,23 @@ Si tienes alguna oferta interesante o proyecto en el que crees que podría aport
 
 ###
 
-<h3 align="left">Contacto:</h3>
-<div align="left">
-  <a href="mailto:justoescobar3@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/justoescobar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-</div>
+## 🌐 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justoescobar) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:justoescobar3@gmail.com)
+
+<a href="https://linkedin.com/in/justoescobar">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp; <!-- Espacio entre los badges -->
+<a href="mailto:justoescobar3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ###
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas utilizadas:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
