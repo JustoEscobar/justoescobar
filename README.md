@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Justo</h1>
-<h3 align="center">I'm a Bachelor's student in Information Systems</h3>
+<h1 align="center">Hola 👋, Soy Justo👨‍💻</h1>
+<h3 align="center">Estudiante avanzado en Lic. en sistemas UNNE📚</h3>
 
-<h3 align="left">Contact with me:</h3>
+# 🌟 Acerca de mi:
+Actualmente me encuentro cursando 4to año y ganando experiencia laboral en el Ministerio de Sec Gral, Gobierno de Corrientes.<br><br>
+Estoy realizando cursos para ser FullStack Developer, aprendiendo dia a dia<br><br>
+Tengo conocimientos solidos en estructuras de datos, logica computacional, bases de datos, ingenieria de software, entre otros.<br><br>
+Me encantan los desafios y estoy abierto a ofertas laborales o pasantías.<br><br>
+Si tienes alguna oferta interesante o proyecto en el que crees que podría aportar, no dudes en contactarme.
+
+###
+
+<h3 align="left">Contacto:</h3>
 <div align="left">
   <a href="mailto:justoescobar3@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
