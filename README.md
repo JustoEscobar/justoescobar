@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Justo👨‍💻</h1>
 <h3 align="center">Estudiante avanzado en Lic. en sistemas UNNE📚</h3>
 
-# 🌟 Acerca de mi:
+# 🌟 Sobre mi:
 Actualmente me encuentro cursando 4to año y ganando experiencia laboral en el Ministerio de Sec Gral, Gobierno de Corrientes.<br><br>
 Estoy realizando cursos para ser FullStack Developer, aprendiendo dia a dia<br><br>
 Tengo conocimientos solidos en estructuras de datos, logica computacional, bases de datos, ingenieria de software, entre otros.<br><br>
