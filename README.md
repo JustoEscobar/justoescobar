@@ -14,14 +14,6 @@ Si tienes alguna oferta interesante o proyecto en el que crees que podría aport
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justoescobar) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:justoescobar3@gmail.com)
 
-<a href="https://linkedin.com/in/justoescobar">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp; <!-- Espacio entre los badges -->
-<a href="mailto:justoescobar3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
-</a>
-
 ###
 
 </p>
