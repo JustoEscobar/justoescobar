@@ -2,10 +2,10 @@
 <h3 align="center">Estudiante avanzado en Lic. en sistemas UNNE📚</h3>
 
 ## 🌟 Sobre mi:
-Actualmente me encuentro cursando 4to año y ganando experiencia laboral en el Ministerio de Sec Gral, Gobierno de Corrientes.<br>
-Estoy realizando cursos para ser FullStack Developer, aprendiendo dia a dia<br>
-Tengo conocimientos solidos en estructuras de datos, logica computacional, bases de datos, ingenieria de software, entre otros.<br>
-Me encantan los desafios y estoy abierto a ofertas laborales o pasantías.<br>
+Actualmente me encuentro cursando 4to año y ganando experiencia laboral en el Ministerio de Sec Gral, Gobierno de Corrientes.<br><br>
+Estoy realizando cursos para ser FullStack Developer, aprendiendo dia a dia.<br><br>
+Tengo conocimientos solidos en estructuras de datos, logica computacional, bases de datos, ingenieria de software, entre otros.<br><br>
+Me encantan los desafios y estoy abierto a ofertas laborales o pasantías.<br><br>
 Si tienes alguna oferta interesante o proyecto en el que crees que podría aportar, no dudes en contactarme.
 
 ###
