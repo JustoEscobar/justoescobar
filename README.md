@@ -52,4 +52,34 @@ Si tienes alguna oferta interesante o proyecto en el que crees que podría aport
 </div>
 
 ###
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)
+&nbsp;&nbsp;&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![CSharp](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?logo=codeigniter&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)](#)
+&nbsp;&nbsp;&nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![Putty](https://img.shields.io/badge/Putty-%23FFFFFF.svg?logo=putty&logoColor=black)](#)
+&nbsp;&nbsp;&nbsp;
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white)](#)
+&nbsp;&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)](#)
 
+###
